@@ -1,0 +1,18 @@
+[
+  {"title":"Cepillarse los dientes al despertar","description":"Rutina base de higiene matutina.","category":"HYGIENE","difficulty":"EASY","frequency":"DAILY","xpReward":10},
+  {"title":"Bañarse antes de iniciar actividades","description":"Mantén higiene personal diaria.","category":"HYGIENE","difficulty":"EASY","frequency":"DAILY","xpReward":10},
+  {"title":"No consumir gaseosa por un día","description":"Reduce azúcar líquida.","category":"NUTRITION","difficulty":"MEDIUM","frequency":"DAILY","xpReward":25},
+  {"title":"Tomar dos litros de agua","description":"Prioriza hidratación saludable.","category":"NUTRITION","difficulty":"MEDIUM","frequency":"DAILY","xpReward":25},
+  {"title":"No superar S/ 50 en gastos diarios","description":"Control de gastos nivel principiante.","category":"EXPENSE","difficulty":"EASY","frequency":"DAILY","xpReward":10},
+  {"title":"Registrar todos los gastos del día","description":"Lleva trazabilidad de tus egresos.","category":"EXPENSE","difficulty":"MEDIUM","frequency":"DAILY","xpReward":25},
+  {"title":"Leer 10 minutos","description":"Consolida hábito de lectura.","category":"READING","difficulty":"EASY","frequency":"DAILY","xpReward":10},
+  {"title":"Completar un capítulo","description":"Lectura de progreso semanal.","category":"READING","difficulty":"HARD","frequency":"WEEKLY","xpReward":50},
+  {"title":"Estudiar 10 palabras nuevas de un idioma","description":"Practica vocabulario objetivo.","category":"LEARNING","difficulty":"MEDIUM","frequency":"DAILY","xpReward":25},
+  {"title":"Practicar pronunciación 15 minutos","description":"Mejora fluidez oral.","category":"LEARNING","difficulty":"HARD","frequency":"WEEKLY","xpReward":50},
+  {"title":"Caminar 20 minutos","description":"Actividad cardiovascular ligera.","category":"EXERCISE","difficulty":"EASY","frequency":"DAILY","xpReward":10},
+  {"title":"Completar rutina básica","description":"Sesión de fuerza funcional.","category":"EXERCISE","difficulty":"HARD","frequency":"WEEKLY","xpReward":50},
+  {"title":"Actualizar LinkedIn","description":"Fortalece presencia profesional.","category":"WORK","difficulty":"MEDIUM","frequency":"WEEKLY","xpReward":25},
+  {"title":"Aprender una herramienta profesional","description":"Skill laboral mensual.","category":"WORK","difficulty":"EPIC","frequency":"MONTHLY","xpReward":100},
+  {"title":"Estudiar 30 minutos","description":"Avance académico constante.","category":"ACADEMIC","difficulty":"MEDIUM","frequency":"DAILY","xpReward":25},
+  {"title":"Avanzar una tarea importante","description":"Empuja meta académica mensual.","category":"ACADEMIC","difficulty":"EPIC","frequency":"MONTHLY","xpReward":100}
+]
